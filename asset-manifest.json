@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tsonasioannis.github.io/react-auth/static/js/main.da93c83e.chunk.js",
+    "main.js": "/tsonasioannis.github.io/react-auth/static/js/main.ce4a01bb.chunk.js",
     "runtime-main.js": "/tsonasioannis.github.io/react-auth/static/js/runtime-main.279157e0.js",
     "static/css/2.4f9d821b.chunk.css": "/tsonasioannis.github.io/react-auth/static/css/2.4f9d821b.chunk.css",
-    "static/js/2.ba72ffde.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/2.ba72ffde.chunk.js",
+    "static/js/2.02437710.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/2.02437710.chunk.js",
     "static/js/3.71fbcce1.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/3.71fbcce1.chunk.js",
     "static/js/4.d41b4f22.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/4.d41b4f22.chunk.js",
     "static/js/5.18327a0f.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/5.18327a0f.chunk.js",
     "index.html": "/tsonasioannis.github.io/react-auth/index.html",
-    "static/js/2.ba72ffde.chunk.js.LICENSE.txt": "/tsonasioannis.github.io/react-auth/static/js/2.ba72ffde.chunk.js.LICENSE.txt"
+    "static/js/2.02437710.chunk.js.LICENSE.txt": "/tsonasioannis.github.io/react-auth/static/js/2.02437710.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.279157e0.js",
     "static/css/2.4f9d821b.chunk.css",
-    "static/js/2.ba72ffde.chunk.js",
-    "static/js/main.da93c83e.chunk.js"
+    "static/js/2.02437710.chunk.js",
+    "static/js/main.ce4a01bb.chunk.js"
   ]
 }
