@@ -78,7 +78,7 @@
     "generate": "cross-env TS_NODE_PROJECT='./internals/ts-node.tsconfig.json' plop --plopfile internals/generators/plopfile.ts",
     "prettify": "prettier --write",
     "extract-messages": "i18next-scanner --config=internals/extractMessages/i18next-scanner.config.js",
-    "prepare": "husky install",
+    "prepare": "cd .. && husky install front-end/.husky",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
