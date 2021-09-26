@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tsonasioannis.github.io/react-auth/static/js/main.e8b9f95d.chunk.js",
-    "runtime-main.js": "/tsonasioannis.github.io/react-auth/static/js/runtime-main.279157e0.js",
-    "static/css/2.4f9d821b.chunk.css": "/tsonasioannis.github.io/react-auth/static/css/2.4f9d821b.chunk.css",
-    "static/js/2.02437710.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/2.02437710.chunk.js",
-    "static/js/3.71fbcce1.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/3.71fbcce1.chunk.js",
-    "static/js/4.d41b4f22.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/4.d41b4f22.chunk.js",
-    "static/js/5.18327a0f.chunk.js": "/tsonasioannis.github.io/react-auth/static/js/5.18327a0f.chunk.js",
-    "index.html": "/tsonasioannis.github.io/react-auth/index.html",
-    "static/js/2.02437710.chunk.js.LICENSE.txt": "/tsonasioannis.github.io/react-auth/static/js/2.02437710.chunk.js.LICENSE.txt"
+    "main.js": "/react-auth/static/js/main.ce4a01bb.chunk.js",
+    "runtime-main.js": "/react-auth/static/js/runtime-main.e6fee359.js",
+    "static/css/2.4f9d821b.chunk.css": "/react-auth/static/css/2.4f9d821b.chunk.css",
+    "static/js/2.cd5446ed.chunk.js": "/react-auth/static/js/2.cd5446ed.chunk.js",
+    "static/js/3.71fbcce1.chunk.js": "/react-auth/static/js/3.71fbcce1.chunk.js",
+    "static/js/4.d41b4f22.chunk.js": "/react-auth/static/js/4.d41b4f22.chunk.js",
+    "static/js/5.18327a0f.chunk.js": "/react-auth/static/js/5.18327a0f.chunk.js",
+    "index.html": "/react-auth/index.html",
+    "static/js/2.cd5446ed.chunk.js.LICENSE.txt": "/react-auth/static/js/2.cd5446ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.279157e0.js",
+    "static/js/runtime-main.e6fee359.js",
     "static/css/2.4f9d821b.chunk.css",
-    "static/js/2.02437710.chunk.js",
-    "static/js/main.e8b9f95d.chunk.js"
+    "static/js/2.cd5446ed.chunk.js",
+    "static/js/main.ce4a01bb.chunk.js"
   ]
 }
